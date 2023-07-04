@@ -1,0 +1,15 @@
+D:\Запаско\Обучение в ИТ\ПО\Examples\001_HelloConcole\bin\Debug\net6.0\001_HelloConcole.exe
+D:\Запаско\Обучение в ИТ\ПО\Examples\001_HelloConcole\bin\Debug\net6.0\001_HelloConcole.deps.json
+D:\Запаско\Обучение в ИТ\ПО\Examples\001_HelloConcole\bin\Debug\net6.0\001_HelloConcole.runtimeconfig.json
+D:\Запаско\Обучение в ИТ\ПО\Examples\001_HelloConcole\bin\Debug\net6.0\001_HelloConcole.dll
+D:\Запаско\Обучение в ИТ\ПО\Examples\001_HelloConcole\bin\Debug\net6.0\001_HelloConcole.pdb
+D:\Запаско\Обучение в ИТ\ПО\Examples\001_HelloConcole\obj\Debug\net6.0\001_HelloConcole.csproj.AssemblyReference.cache
+D:\Запаско\Обучение в ИТ\ПО\Examples\001_HelloConcole\obj\Debug\net6.0\001_HelloConcole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Запаско\Обучение в ИТ\ПО\Examples\001_HelloConcole\obj\Debug\net6.0\001_HelloConcole.AssemblyInfoInputs.cache
+D:\Запаско\Обучение в ИТ\ПО\Examples\001_HelloConcole\obj\Debug\net6.0\001_HelloConcole.AssemblyInfo.cs
+D:\Запаско\Обучение в ИТ\ПО\Examples\001_HelloConcole\obj\Debug\net6.0\001_HelloConcole.csproj.CoreCompileInputs.cache
+D:\Запаско\Обучение в ИТ\ПО\Examples\001_HelloConcole\obj\Debug\net6.0\001_HelloConcole.dll
+D:\Запаско\Обучение в ИТ\ПО\Examples\001_HelloConcole\obj\Debug\net6.0\refint\001_HelloConcole.dll
+D:\Запаско\Обучение в ИТ\ПО\Examples\001_HelloConcole\obj\Debug\net6.0\001_HelloConcole.pdb
+D:\Запаско\Обучение в ИТ\ПО\Examples\001_HelloConcole\obj\Debug\net6.0\001_HelloConcole.genruntimeconfig.cache
+D:\Запаско\Обучение в ИТ\ПО\Examples\001_HelloConcole\obj\Debug\net6.0\ref\001_HelloConcole.dll
